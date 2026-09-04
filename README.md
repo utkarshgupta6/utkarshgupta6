@@ -1,16 +1,41 @@
-# 💫 Hi 👋, I'm utkarsh gupta
-**A passionate btech student || branch:- cse core || bhopal from India**
+## <!-- Header Typing Animation -->
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00BCD4&center=true&vcenter=true&width=600&lines=B.Tech+CSE+Core+student+in+vit+bhopal+%F0%9F%8D%93;Aspiring+%F0%9F%92%BB;Learning+python+%F0%9F%9A%80" alt="Typing SVG" />
+  </a>
+</h1>
 
-Email Me 👉 ✉️ **dg2814952@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+<!-- Introduction -->
+<p align="center">
+  👋 <b>Hi! I'm a First-Year Computer Science & Engineering student.</b><br>
+  Currently focused on building strong programming foundations in Python, HTML, and Core CS Concepts.
+</p>
 
-- 🔭 **I’m currently working on:** Enter your project info here
-- 🌱 **I’m currently learning:** Enter your tech here
-- 👯 **I’m looking to collaborate on:** Enter your project name and info
-- 🤔 **I’m looking for help with:** Your project here
-- 💬 **Ask me about:** Collaboration, Tech Support
-- 📫 **How to reach me:** Enter your email here
-- 😄 **Pronouns:** utkarsh
-- ⚡ **Fun fact:** I Love Tech and Tech Love Me
+<hr>
+
+<!-- Coding Profile Badges -->
+<h3 align="center">🎯 Competitive Coding & Problem Solving</h3>
+<p align="center">
+  <a href="https://leetcode.com/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+  <a href="https://www.geeksforgeeks.org/">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
+  </a>
+  <a href="https://www.hackerrank.com/">
+    <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" />
+  </a>
+</p>
+
+<!-- Tech Stack Badges -->
+<h3 align="center">🛠️ Languages & First-Year Stack</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+</p>
 
 ## <h3 align="center">🛠️ Engineering Stack & Tools</h3>
 
@@ -28,20 +53,14 @@ Email Me 👉 ✉️ **dg2814952@gmail.com** For Collaboration/Project or Anythi
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 </p>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/utkarsh_62_) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@codewithuttkarsh) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dg2814952@gmail.com) 
-
-## <h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2196F3&center=true&vcenter=true&width=500&lines=Software+Engineer+%F0%9F%92%BB;Problem+Solver+%F0%9F%A7%A0;Building+Scalable+Systems+%F0%9F%9A%80" alt="Typing SVG" />
-  </a>
-</h1>
-
 <!-- Snake Game Repo View -->
 
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
+
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/utkarsh_62_) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@codewithuttkarsh) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dg2814952@gmail.com) 
 
 # 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
