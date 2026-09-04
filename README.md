@@ -25,8 +25,6 @@
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=utkarshgupta6&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
 [![](https://komarev.com/ghpvc/?username=utkarshgupta6&icon=0&color=blue)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
