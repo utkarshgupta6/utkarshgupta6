@@ -1,10 +1,3 @@
-## <!-- Header Typing Animation -->
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00BCD4&center=true&vcenter=true&width=600&lines=B.Tech+CSE+Core+student+in+vit+bhopal+%F0%9F%8D%93;Learning+python+%F0%9F%9A%80" alt="Typing SVG" />
-  </a>
-</h1>
-
 <!-- Introduction -->
 <p align="center">
   👋 <b>Hi! I'm a First-Year Computer Science & Engineering student.</b><br>
