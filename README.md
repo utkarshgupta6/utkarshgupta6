@@ -16,6 +16,10 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=utkarshgupta6&layout=compact&theme=radical)
 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=utkarshgupta6&theme=zenburn" alt="GitHub Activity Radar" />
+</p>
+
 
 
 ### 🔝 Top Contributed Repo
