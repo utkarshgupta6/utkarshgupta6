@@ -10,12 +10,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=utkarshgupta6&layout=compact&theme=radical)
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=utkarshgupta6&theme=zenburn" alt="GitHub Activity Radar" />
-</p>
-
-
-
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=utkarshgupta6&limit=5&theme=dark&combine_all_yearly_contributions=true)
 [![](https://komarev.com/ghpvc/?username=utkarshgupta6&icon=0&color=blue)](https://visitcount.itsvg.in)
